@@ -3023,3 +3023,37 @@ body {
 .cid-qVIsRPzZcL .media-container-row .mbr-text {
   text-align: left;
 }
+.cid-qXoaxNtQJV {
+  background-image: url("../../../assets/images/laravizuete-1000x787.jpg");
+}
+.cid-qXoaw0gwY7 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qXoaw0gwY7 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qXoaw0gwY7 .section-text {
+  padding: 2rem 0;
+}
+.cid-qXoaw0gwY7 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qXoaw0gwY7 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qVIsRPzZcL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qVIsRPzZcL .media-container-row .mbr-text {
+  text-align: left;
+}
