@@ -2452,6 +2452,9 @@ body {
 .cid-qXjKioBEGY {
   background-image: url("../../../assets/images/photo-holland-hussain-potter-by-paul-joseph-2-2000x1200.jpg");
 }
+.cid-qXjKioBEGY H1 {
+  color: #efefef;
+}
 .cid-qXk3xvvSTt {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2488,6 +2491,7 @@ body {
 }
 .cid-qXjQjmt2n3 H1 {
   text-align: center;
+  color: #efefef;
 }
 .cid-qXk2le3jNi {
   padding-top: 30px;
@@ -2528,7 +2532,8 @@ body {
   text-align: right;
 }
 .cid-qXjXVbHmva H1 {
-  text-align: left;
+  text-align: center;
+  color: #efefef;
 }
 .cid-qXk10UFplz {
   padding-top: 30px;
@@ -2598,6 +2603,9 @@ body {
 .cid-qXk57vcr7k {
   background-image: url("../../../assets/images/maxicaballero-1-717x538.jpg");
 }
+.cid-qXk57vcr7k H1 {
+  color: #efefef;
+}
 .cid-qXk55Yw4Ke {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2632,6 +2640,9 @@ body {
 .cid-qXkf7nxvhp {
   background-image: url("../../../assets/images/96bc0b-685d8def35ac447189369ea06c80968dmv2-600x544.png");
 }
+.cid-qXkf7nxvhp H1 {
+  color: #efefef;
+}
 .cid-qXkf96pEh8 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2665,12 +2676,12 @@ body {
 }
 .cid-qXk8hMOH1c .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qXk8hMOH1c .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #232323;
 }
 .cid-qXk8hMOH1c a {
   font-style: normal;
@@ -2754,7 +2765,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qXk8hMOH1c .dropdown .dropdown-menu {
-  background: #333333;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3125,12 +3136,12 @@ body {
 }
 .cid-qXk8hMOH1c .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qXk8hMOH1c .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #232323;
 }
 .cid-qXk8hMOH1c a {
   font-style: normal;
@@ -3214,7 +3225,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qXk8hMOH1c .dropdown .dropdown-menu {
-  background: #333333;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3516,7 +3527,7 @@ body {
   background-image: url("../../../assets/images/anthus-1-1860x1002.jpg");
 }
 .cid-qXongXJrxS H1 {
-  color: #b1a374;
+  color: #465052;
 }
 .cid-qXonfSX6ID {
   padding-top: 30px;
