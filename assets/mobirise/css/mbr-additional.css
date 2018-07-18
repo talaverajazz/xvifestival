@@ -1969,42 +1969,33 @@ body {
   color: #767676;
   text-align: center;
 }
-.cid-qX1UxnF4KD {
-  padding-top: 0px;
+.cid-qY9lRATmb8 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qY9lRATmb8 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qY9mdYQOQi {
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qX1UxnF4KD .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-qX1UxnF4KD h4 {
+.cid-qY9mdYQOQi h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-qX1UxnF4KD p {
+.cid-qY9mdYQOQi p {
   color: #767676;
   text-align: left;
 }
-.cid-qX1UxnF4KD .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-qY9mdYQOQi .card-box {
+  padding-top: 2rem;
 }
-.cid-qX1UxnF4KD .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-qX1UxnF4KD .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-qX1UxnF4KD P {
-  color: #232323;
+.cid-qY9mdYQOQi .card-wrapper {
+  height: 100%;
 }
 .cid-qX1UzQMOAV {
   padding-top: 30px;
