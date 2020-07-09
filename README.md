@@ -1,2 +1,1 @@
-# xvifestival
-XVI Festival Jazz Ciudad de Talavera 
+# XVI Festival Jazz Ciudad de Talavera edición 2018
